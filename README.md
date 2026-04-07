@@ -24,13 +24,11 @@ src="https://img.shields.io/github/followers/tonkar595?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<div align="center">
-  
-  <a href="https://github.com/tonkar595">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonkar595&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="170" />
-  </a>
-</div>
-
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tonkar595&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2" alt="stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonkar595&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" width="100%" alt="tonkar595's activity graph" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonkar595&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonkar595&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
