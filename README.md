@@ -33,6 +33,8 @@ src="https://img.shields.io/github/followers/tonkar595?logo=github&style=for-the
   </a>
 </div>
 
-<a href="http://www.github.com/tonkar595"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tonkar595&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/tonkar595" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonkar595&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <a href="https://github.com/tonkar595">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonkar595&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="Top Languages" width="400" />
+  </a>
+</div>
